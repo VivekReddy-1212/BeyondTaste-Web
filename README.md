@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Beyond Taste 🍽️
 
 A modern, responsive web application for ordering authentic Indian cuisine. Experience traditional flavors with a seamless online ordering system.
